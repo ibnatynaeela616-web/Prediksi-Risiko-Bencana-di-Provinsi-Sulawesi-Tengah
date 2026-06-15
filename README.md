@@ -3,12 +3,15 @@ Proyek ini merupakan implementasi machine learning untuk tugas Statistika pada P
 
 # Sumber Data
 Badan Nasional Penanggulangan Bencana (BNPB) Provinsi Sulawesi Tengah
-Periode 2010 – 2024
+Periode 2010 – 2024.
 
+# Metode
+Metode yang digunakan adalah K-Nearest Neighbor (KNN)
 
-# Library yang Digunakan
-1. pandas
-2. numpy
-3. scikit-learn
-4. matplotlib
-5. scipy
+# Library dan Tools
+1. Python
+2. Pandas
+3. Numpy
+4. Scikit-learn
+5. Matplotlib
+6. Scipy
